@@ -1,4 +1,3 @@
-// dependencies
 const mongoose = require('mongoose')
 const { Schema } = mongoose
 const Bread = require('./bread')
